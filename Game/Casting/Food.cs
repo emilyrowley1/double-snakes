@@ -19,7 +19,7 @@ namespace Unit05.Game.Casting
         public Food()
         {
             SetText("@");
-            SetColor(Constants.RED); 
+            SetColor(Constants.GREEN); 
             Reset();
         }
 
